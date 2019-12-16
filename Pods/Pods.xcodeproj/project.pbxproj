@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -1122,11 +1122,11 @@
 		0A4DEC0448AFB7E1D26716B54FB5D8E7 /* MJFoundation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJFoundation.h; path = MJExtension/MJFoundation.h; sourceTree = "<group>"; };
 		0B5ADE42EB36E36DACC4FC9DACAE9C99 /* IQKeyboardManager-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "IQKeyboardManager-prefix.pch"; sourceTree = "<group>"; };
 		0BC14F4D0D57320A3ED41362D6F99B3E /* QRCodeUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QRCodeUtil.h; path = WLMElectronicInvoice/Tools/QRCodeUtil/QRCodeUtil.h; sourceTree = "<group>"; };
-		0BEEDF597724ECCACD1E5400B34DD7D5 /* libWLModal.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libWLModal.a; path = libWLModal.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		0BEEDF597724ECCACD1E5400B34DD7D5 /* libWLModal.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libWLModal.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C3A062EA50B92148C2441A2B15E1261 /* MJExtensionConst.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJExtensionConst.m; path = MJExtension/MJExtensionConst.m; sourceTree = "<group>"; };
-		0CB5F2C08CE356BB10839CF70FFBC8EE /* RACSignalProvider.d */ = {isa = PBXFileReference; includeInIndex = 1; name = RACSignalProvider.d; path = ReactiveObjC/RACSignalProvider.d; sourceTree = "<group>"; };
+		0CB5F2C08CE356BB10839CF70FFBC8EE /* RACSignalProvider.d */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.dtrace; name = RACSignalProvider.d; path = ReactiveObjC/RACSignalProvider.d; sourceTree = "<group>"; };
 		0CF0D98971CED46B73D9F5E322736D9B /* WLMPackageSelectView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLMPackageSelectView.m; path = WLMElectronicInvoice/ElectronicInvoiceApply/View/WLMPackageSelectView.m; sourceTree = "<group>"; };
-		0CFCC4B5501C6F87FDEA85A669E73A99 /* libWLBaseView.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libWLBaseView.a; path = libWLBaseView.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		0CFCC4B5501C6F87FDEA85A669E73A99 /* libWLBaseView.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libWLBaseView.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D1BCB7E571C5818B9830E05759519D5 /* ImageTextField.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ImageTextField.m; path = WLMElectronicInvoice/Tools/ImageTextField/ImageTextField.m; sourceTree = "<group>"; };
 		0DF31AF778DCD65522C11FDD51AAEE04 /* WLPickerView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WLPickerView-dummy.m"; sourceTree = "<group>"; };
 		0E13E8AB3C75911E855FB450F41B1AE8 /* WLIcon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLIcon.h; path = WLIconFont/Classes/WLIcon.h; sourceTree = "<group>"; };
@@ -1151,7 +1151,7 @@
 		12294FBF3637F9DA5DFB0AA318DA07D7 /* pick_bg@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "pick_bg@2x.png"; path = "WLMElectronicInvoice/Resources/pick_bg@2x.png"; sourceTree = "<group>"; };
 		1260C41D5CE7B80A8636D05FB233BCE5 /* UIView+WLCurrentVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+WLCurrentVC.m"; path = "WLWidget/Category/UIView+WLCurrentVC.m"; sourceTree = "<group>"; };
 		12BED317D849A1A992E82F551B2F1112 /* FBBlockStrongRelationDetector.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBBlockStrongRelationDetector.h; path = FBRetainCycleDetector/Layout/Blocks/FBBlockStrongRelationDetector.h; sourceTree = "<group>"; };
-		13268443BB5D625FE929E111CFC28F53 /* libMasonry.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libMasonry.a; path = libMasonry.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		13268443BB5D625FE929E111CFC28F53 /* libMasonry.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMasonry.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		132C8860EBBD52DDB36D94C442587786 /* UIView+WLRoundedCorners.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+WLRoundedCorners.m"; path = "WLWidget/Category/UIView+WLRoundedCorners.m"; sourceTree = "<group>"; };
 		138C6306068CA480F9304939AD3FA5DD /* IQToolbar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IQToolbar.h; path = IQKeyboardManager/IQToolbar/IQToolbar.h; sourceTree = "<group>"; };
 		13AA506A2D7D31F81924F4CBA1E4C2A6 /* NSData+ImageContentType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSData+ImageContentType.h"; path = "SDWebImage/NSData+ImageContentType.h"; sourceTree = "<group>"; };
@@ -1190,21 +1190,21 @@
 		1E675E76B9F50B27CBB9B4EF3EDFD9C4 /* WLFormMoreInfoCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLFormMoreInfoCell.h; path = WLForm/View/Cell/WLFormMoreInfoCell.h; sourceTree = "<group>"; };
 		1EE0ABE2EDC4858DDAF41401D242EF4B /* UIViewController+WLNavigationItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIViewController+WLNavigationItem.h"; path = "WLBaseView/Category/UIViewController+WLNavigationItem.h"; sourceTree = "<group>"; };
 		1EFB81AA274DCF44306BB4EB76859794 /* WLMInvoiceRecprdFooterView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLMInvoiceRecprdFooterView.h; path = WLMElectronicInvoice/ElectronicInvoiceManager/View/WLMInvoiceRecprdFooterView.h; sourceTree = "<group>"; };
-		1F26D76046492A54729DA8B354A48E5B /* libWLWidget.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libWLWidget.a; path = libWLWidget.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		1F26D76046492A54729DA8B354A48E5B /* libWLWidget.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libWLWidget.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F7B12E5FFB453FF48C4D0D9A74A4C5A /* UIGestureRecognizer+RACSignalSupport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIGestureRecognizer+RACSignalSupport.m"; path = "ReactiveObjC/UIGestureRecognizer+RACSignalSupport.m"; sourceTree = "<group>"; };
 		1FF70C7CCE0893F21265EFBFD4FF8720 /* RACTargetQueueScheduler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RACTargetQueueScheduler.m; path = ReactiveObjC/RACTargetQueueScheduler.m; sourceTree = "<group>"; };
 		204BCDF1CE98EB5820E74B018FC74753 /* FBAssociationManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBAssociationManager.h; path = FBRetainCycleDetector/Associations/FBAssociationManager.h; sourceTree = "<group>"; };
-		204F789C702BA107E6C4CC5B0524C1B8 /* FBStructEncodingParser.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = FBStructEncodingParser.mm; path = FBRetainCycleDetector/Layout/Classes/Parser/FBStructEncodingParser.mm; sourceTree = "<group>"; };
+		204F789C702BA107E6C4CC5B0524C1B8 /* FBStructEncodingParser.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = FBStructEncodingParser.mm; path = FBRetainCycleDetector/Layout/Classes/Parser/FBStructEncodingParser.mm; sourceTree = "<group>"; };
 		206E42847544B8C19B54BEAC71D0D7C9 /* WLBaseView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WLBaseView.xcconfig; sourceTree = "<group>"; };
 		20A8FFDE21D442A30A6B99EDEF6ACC64 /* RACArraySequence.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACArraySequence.h; path = ReactiveObjC/RACArraySequence.h; sourceTree = "<group>"; };
 		2140EA8D987C8CA09E48F8D8F2FECF61 /* NSString+RACSequenceAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+RACSequenceAdditions.m"; path = "ReactiveObjC/NSString+RACSequenceAdditions.m"; sourceTree = "<group>"; };
 		218CF53E5FC6F18AEB1E2385259E088A /* IQTitleBarButtonItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = IQTitleBarButtonItem.m; path = IQKeyboardManager/IQToolbar/IQTitleBarButtonItem.m; sourceTree = "<group>"; };
 		21F6268F97FCE0E008E2E3DE0CF1758B /* InvoiceCollectionReusableView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = InvoiceCollectionReusableView.h; path = WLMElectronicInvoice/ElectronicInvoiceQRCodeManager/View/InvoiceCollectionReusableView.h; sourceTree = "<group>"; };
-		222093F17F5DAA69C677DD95265FD523 /* FBClassStrongLayout.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = FBClassStrongLayout.mm; path = FBRetainCycleDetector/Layout/Classes/FBClassStrongLayout.mm; sourceTree = "<group>"; };
+		222093F17F5DAA69C677DD95265FD523 /* FBClassStrongLayout.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = FBClassStrongLayout.mm; path = FBRetainCycleDetector/Layout/Classes/FBClassStrongLayout.mm; sourceTree = "<group>"; };
 		22682C1DBF22FBE38180A85A47969FAF /* WLMInvoiceResultVM.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLMInvoiceResultVM.m; path = WLMElectronicInvoice/ElectronicInvoiceApply/ViewModel/WLMInvoiceResultVM.m; sourceTree = "<group>"; };
 		24001092DD3E9321741213FE025ACE34 /* WLFormTextInputCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLFormTextInputCell.h; path = WLForm/View/Cell/WLFormTextInputCell.h; sourceTree = "<group>"; };
 		247AC144C6EB2A7B31FC5CEC73AF170C /* RACMulticastConnection+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "RACMulticastConnection+Private.h"; path = "ReactiveObjC/RACMulticastConnection+Private.h"; sourceTree = "<group>"; };
-		24A178A468AC4F0B65BA8CAFADE00118 /* libWLIconFont.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libWLIconFont.a; path = libWLIconFont.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		24A178A468AC4F0B65BA8CAFADE00118 /* libWLIconFont.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libWLIconFont.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		251FEFA4D6B4F7F6387F151A514D2F38 /* FBRetainCycleDetector.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBRetainCycleDetector.xcconfig; sourceTree = "<group>"; };
 		253D7A91FB75CD4F076680BDB1AB2F94 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASCompositeConstraint.h; path = Masonry/MASCompositeConstraint.h; sourceTree = "<group>"; };
 		256301551CA2956F0736625D1B1F31C2 /* NSOrderedSet+RACSequenceAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSOrderedSet+RACSequenceAdditions.h"; path = "ReactiveObjC/NSOrderedSet+RACSequenceAdditions.h"; sourceTree = "<group>"; };
@@ -1215,8 +1215,8 @@
 		27C2B7C51BC3134AC3F4FFB0B10B4E8B /* NSObject+RACSelectorSignal.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSObject+RACSelectorSignal.m"; path = "ReactiveObjC/NSObject+RACSelectorSignal.m"; sourceTree = "<group>"; };
 		281DC40B146A27CB50EC93F7B2E5FB38 /* SDWebImageCoderHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageCoderHelper.h; path = SDWebImage/SDWebImageCoderHelper.h; sourceTree = "<group>"; };
 		283D045DB172B81131D516ECECB49F65 /* SDWebImageOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageOperation.h; path = SDWebImage/SDWebImageOperation.h; sourceTree = "<group>"; };
-		285B6F22C35912BE6116DA7585197E53 /* libReactiveObjC.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libReactiveObjC.a; path = libReactiveObjC.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		28734D569AC4AA7F3FAAF5602916EA6C /* WLIconFont.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = WLIconFont.bundle; path = "WLIconFont-WLIconFont.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		285B6F22C35912BE6116DA7585197E53 /* libReactiveObjC.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libReactiveObjC.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		28734D569AC4AA7F3FAAF5602916EA6C /* WLIconFont.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WLIconFont.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		28D797FE093B571248213C99328BC2E2 /* SDWebImageImageIOCoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageImageIOCoder.h; path = SDWebImage/SDWebImageImageIOCoder.h; sourceTree = "<group>"; };
 		28F11F6FE2226F78AC846EE64457D0AA /* MJPropertyKey.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJPropertyKey.m; path = MJExtension/MJPropertyKey.m; sourceTree = "<group>"; };
 		295B886AACCE2178E9DFFB5CB41CBC28 /* WLMInvoiceResultModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLMInvoiceResultModel.h; path = WLMElectronicInvoice/ElectronicInvoiceApply/Model/WLMInvoiceResultModel.h; sourceTree = "<group>"; };
@@ -1233,21 +1233,21 @@
 		2D663C81EC0A75365E284057999BD25F /* UIImageView+WLSDImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+WLSDImage.h"; path = "WLWidget/Category/UIImageView+WLSDImage.h"; sourceTree = "<group>"; };
 		2DF69BF4E66DC4EE929105619152CD3B /* FBStandardGraphEdgeFilters.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBStandardGraphEdgeFilters.h; path = FBRetainCycleDetector/Filtering/FBStandardGraphEdgeFilters.h; sourceTree = "<group>"; };
 		2E3BFC3EEEED0709AD76C97D29D9146C /* RACReplaySubject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACReplaySubject.h; path = ReactiveObjC/RACReplaySubject.h; sourceTree = "<group>"; };
-		2EBD44F10148B1AED427F8D86055CE72 /* fishhook.c */ = {isa = PBXFileReference; includeInIndex = 1; name = fishhook.c; path = fishhook/fishhook.c; sourceTree = "<group>"; };
+		2EBD44F10148B1AED427F8D86055CE72 /* fishhook.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = fishhook.c; path = fishhook/fishhook.c; sourceTree = "<group>"; };
 		2EF832DE77DD4EA5802744913B636DE2 /* RACIndexSetSequence.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACIndexSetSequence.h; path = ReactiveObjC/RACIndexSetSequence.h; sourceTree = "<group>"; };
 		2F7B4396D7E438464218E829DDCFDBB0 /* MLeaksMessenger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MLeaksMessenger.m; path = MLeaksFinder/MLeaksMessenger.m; sourceTree = "<group>"; };
 		30A8197B8F47AD941096A71AF08C5447 /* UIView+WLSize.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+WLSize.m"; path = "WLWidget/Category/UIView+WLSize.m"; sourceTree = "<group>"; };
 		31B4E9A6ABC79E34381B700063DD7B25 /* Masonry-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Masonry-dummy.m"; sourceTree = "<group>"; };
 		31D477B9E2ABBAA55B0344F5F3CC6BF3 /* RACSerialDisposable.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RACSerialDisposable.m; path = ReactiveObjC/RACSerialDisposable.m; sourceTree = "<group>"; };
 		31E4B8ED95FE8F87991B1944D4DEEBDD /* EleInvoiceCategory.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = EleInvoiceCategory.xcconfig; sourceTree = "<group>"; };
-		31E62ACD24F893A5D4677749C842D7F9 /* RACCompoundDisposableProvider.d */ = {isa = PBXFileReference; includeInIndex = 1; name = RACCompoundDisposableProvider.d; path = ReactiveObjC/RACCompoundDisposableProvider.d; sourceTree = "<group>"; };
+		31E62ACD24F893A5D4677749C842D7F9 /* RACCompoundDisposableProvider.d */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.dtrace; name = RACCompoundDisposableProvider.d; path = ReactiveObjC/RACCompoundDisposableProvider.d; sourceTree = "<group>"; };
 		320F60CB89BEA1592C78C3B14D40B79C /* UIView+WebCacheOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+WebCacheOperation.m"; path = "SDWebImage/UIView+WebCacheOperation.m"; sourceTree = "<group>"; };
 		325C6B69760B6596A93E02F28FE77C38 /* UIView+WLCurrentVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+WLCurrentVC.h"; path = "WLWidget/Category/UIView+WLCurrentVC.h"; sourceTree = "<group>"; };
 		32B4CBE9E2D0416451F33C012FFA84BA /* WLTitleWithContentModal.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLTitleWithContentModal.m; path = WLModal/View/WLTitleWithContentModal.m; sourceTree = "<group>"; };
 		3353B6F39447206B645F17D45F5E3BF2 /* RACPassthroughSubscriber.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACPassthroughSubscriber.h; path = ReactiveObjC/RACPassthroughSubscriber.h; sourceTree = "<group>"; };
 		335D632BD58F4A9A84D3E72D7196E7BB /* UIImagePickerController+RACSignalSupport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImagePickerController+RACSignalSupport.h"; path = "ReactiveObjC/UIImagePickerController+RACSignalSupport.h"; sourceTree = "<group>"; };
 		33D205EA885FA0166A8E2CAD7ECF069F /* CTMediator+Elelnvoice.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "CTMediator+Elelnvoice.m"; path = "ModuleCategory/Category/CTMediator+Elelnvoice.m"; sourceTree = "<group>"; };
-		33FA16656BBA9C19F5E6B3FE0DE71C6B /* libModuleB.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libModuleB.a; path = libModuleB.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		33FA16656BBA9C19F5E6B3FE0DE71C6B /* libModuleB.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libModuleB.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		353B9B6929E831146E8F6EC1DC550879 /* WLMInvoiceDetailVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLMInvoiceDetailVC.h; path = WLMElectronicInvoice/ElectronicInvoiceDetail/Controller/WLMInvoiceDetailVC.h; sourceTree = "<group>"; };
 		35C670CA8BD51A3DBF80CBDB1B70BBFB /* Pods-GQComponentDemo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-GQComponentDemo-frameworks.sh"; sourceTree = "<group>"; };
 		36304D2F4FB31177453079F484A9E023 /* RACValueTransformer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACValueTransformer.h; path = ReactiveObjC/RACValueTransformer.h; sourceTree = "<group>"; };
@@ -1257,14 +1257,14 @@
 		39050C772849C01001302308E404EB1D /* RACBehaviorSubject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACBehaviorSubject.h; path = ReactiveObjC/RACBehaviorSubject.h; sourceTree = "<group>"; };
 		394EA892B11D21A67D7DBC5D88884A5C /* WLMEInvoiceIntroduceVM.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLMEInvoiceIntroduceVM.m; path = WLMElectronicInvoice/ElectronicInvoiceApply/ViewModel/WLMEInvoiceIntroduceVM.m; sourceTree = "<group>"; };
 		39AF470C859BD67C9E4DA165BFC0F860 /* RACEvent.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RACEvent.m; path = ReactiveObjC/RACEvent.m; sourceTree = "<group>"; };
-		39D339798E9A7DB55A6F38C3EB600A5B /* FBStandardGraphEdgeFilters.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = FBStandardGraphEdgeFilters.mm; path = FBRetainCycleDetector/Filtering/FBStandardGraphEdgeFilters.mm; sourceTree = "<group>"; };
+		39D339798E9A7DB55A6F38C3EB600A5B /* FBStandardGraphEdgeFilters.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = FBStandardGraphEdgeFilters.mm; path = FBRetainCycleDetector/Filtering/FBStandardGraphEdgeFilters.mm; sourceTree = "<group>"; };
 		3A1DB03DE28BE2B4AD30ABE4347D44FD /* WLMSearchInvoiceItemVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLMSearchInvoiceItemVC.m; path = WLMElectronicInvoice/ElectronicInvoiceApply/Controller/WLMSearchInvoiceItemVC.m; sourceTree = "<group>"; };
 		3A5A2615A677E78DC0045CEA6BAD81D6 /* UIAlertView+RACSignalSupport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIAlertView+RACSignalSupport.h"; path = "ReactiveObjC/UIAlertView+RACSignalSupport.h"; sourceTree = "<group>"; };
 		3A9D31E5CDFB3EA8FCCEEDB8B3515FEA /* WLForm+section.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "WLForm+section.h"; path = "WLForm/Category/WLForm+section.h"; sourceTree = "<group>"; };
 		3ACFCE5B6FC3B4D2206B89C10EA60F82 /* UITextField+RACSignalSupport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextField+RACSignalSupport.m"; path = "ReactiveObjC/UITextField+RACSignalSupport.m"; sourceTree = "<group>"; };
 		3AF16AF78FBFFA9FB6CABC6A218597B8 /* IQTitleBarButtonItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IQTitleBarButtonItem.h; path = IQKeyboardManager/IQToolbar/IQTitleBarButtonItem.h; sourceTree = "<group>"; };
 		3B10782CE8E8922F39596E83772C0E0E /* UIView+MemoryLeak.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+MemoryLeak.h"; path = "MLeaksFinder/UIView+MemoryLeak.h"; sourceTree = "<group>"; };
-		3B761AA4D1E70D5B0C2084D8409E923A /* iconfont.ttf */ = {isa = PBXFileReference; includeInIndex = 1; name = iconfont.ttf; path = WLIconFont/Assets/iconfont.ttf; sourceTree = "<group>"; };
+		3B761AA4D1E70D5B0C2084D8409E923A /* iconfont.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = iconfont.ttf; path = WLIconFont/Assets/iconfont.ttf; sourceTree = "<group>"; };
 		3BE5D07A4F8B34F2B78BB5696B007D69 /* SDAnimatedImageRep.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDAnimatedImageRep.h; path = SDWebImage/SDAnimatedImageRep.h; sourceTree = "<group>"; };
 		3C341F8E6260202104214CC2A5137C0C /* WLFormBottomButtonCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLFormBottomButtonCell.m; path = WLForm/View/Cell/WLFormBottomButtonCell.m; sourceTree = "<group>"; };
 		3C46DBD66D3FACCAA56EAEB568448600 /* WLModal.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WLModal.xcconfig; sourceTree = "<group>"; };
@@ -1308,7 +1308,7 @@
 		47AD8CD4A5495D10CF91D7AC9655156C /* WLFormItemViewModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLFormItemViewModel.h; path = WLForm/ViewModel/WLFormItemViewModel.h; sourceTree = "<group>"; };
 		4816D43F120B18D1EF5B94012288659C /* UITableViewHeaderFooterView+RACSignalSupport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITableViewHeaderFooterView+RACSignalSupport.m"; path = "ReactiveObjC/UITableViewHeaderFooterView+RACSignalSupport.m"; sourceTree = "<group>"; };
 		48D6B1788EA42D274F32C81978D271A3 /* UIImage+WLIconFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+WLIconFont.h"; path = "WLIconFont/Classes/UIImage+WLIconFont.h"; sourceTree = "<group>"; };
-		493C1C40265EE97D47571282215721CC /* libFBRetainCycleDetector.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libFBRetainCycleDetector.a; path = libFBRetainCycleDetector.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		493C1C40265EE97D47571282215721CC /* libFBRetainCycleDetector.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libFBRetainCycleDetector.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		4984E9EA4A3831FA15AFD296969483E4 /* SDWebImage-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SDWebImage-prefix.pch"; sourceTree = "<group>"; };
 		49C104CF5675448923742AB5A938F6D2 /* UIImage+MultiFormat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+MultiFormat.h"; path = "SDWebImage/UIImage+MultiFormat.h"; sourceTree = "<group>"; };
 		49C4560683FD0A852E02D806025424B5 /* FBObjectGraphConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBObjectGraphConfiguration.h; path = FBRetainCycleDetector/Graph/FBObjectGraphConfiguration.h; sourceTree = "<group>"; };
@@ -1344,7 +1344,7 @@
 		527949A129F0C556258A0FE5C4236090 /* UIView+WebCacheOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+WebCacheOperation.h"; path = "SDWebImage/UIView+WebCacheOperation.h"; sourceTree = "<group>"; };
 		527EC862090F57A552E279B1074C4330 /* IQUIScrollView+Additions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "IQUIScrollView+Additions.h"; path = "IQKeyboardManager/Categories/IQUIScrollView+Additions.h"; sourceTree = "<group>"; };
 		52B10A07FE829DB1F741898D4EF48EC0 /* WLProgress.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLProgress.h; path = WLWidget/SComponent/WLProgress.h; sourceTree = "<group>"; };
-		537CA346BBF1FFC50703018C09F95D0C /* FBRetainCycleDetector.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = FBRetainCycleDetector.mm; path = FBRetainCycleDetector/Detector/FBRetainCycleDetector.mm; sourceTree = "<group>"; };
+		537CA346BBF1FFC50703018C09F95D0C /* FBRetainCycleDetector.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = FBRetainCycleDetector.mm; path = FBRetainCycleDetector/Detector/FBRetainCycleDetector.mm; sourceTree = "<group>"; };
 		545D312E3C08206C1B78A5A714E1DFE0 /* MJPropertyType.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJPropertyType.m; path = MJExtension/MJPropertyType.m; sourceTree = "<group>"; };
 		547693FFEBBCA850126B55B47B000394 /* UIControl+RACSignalSupport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIControl+RACSignalSupport.m"; path = "ReactiveObjC/UIControl+RACSignalSupport.m"; sourceTree = "<group>"; };
 		54D4342454E70F417AB73D7CCD02ABFA /* normal@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "normal@3x.png"; path = "WLMElectronicInvoice/Resources/normal@3x.png"; sourceTree = "<group>"; };
@@ -1364,7 +1364,7 @@
 		59C3687FD16796BFD035756D436D6DA7 /* FBClassStrongLayout.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBClassStrongLayout.h; path = FBRetainCycleDetector/Layout/Classes/FBClassStrongLayout.h; sourceTree = "<group>"; };
 		59DAE1493014CD2CB595C4CB168C1EA8 /* WLAlertModal.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLAlertModal.m; path = WLModal/View/WLAlertModal.m; sourceTree = "<group>"; };
 		5ADD0C9AF80C03A72962C74B9E9F3BCD /* WLMRecordSearchVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLMRecordSearchVC.m; path = WLMElectronicInvoice/ElectronicInvoiceSearch/Controller/WLMRecordSearchVC.m; sourceTree = "<group>"; };
-		5AF11D63E70CB39B9BDA9596D63009FF /* libIQKeyboardManager.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libIQKeyboardManager.a; path = libIQKeyboardManager.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AF11D63E70CB39B9BDA9596D63009FF /* libIQKeyboardManager.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libIQKeyboardManager.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B2ABF23E955AA5EEA896C520D4FF7BC /* RACEXTRuntimeExtensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACEXTRuntimeExtensions.h; path = ReactiveObjC/extobjc/RACEXTRuntimeExtensions.h; sourceTree = "<group>"; };
 		5BA55FD29E6EFB770EF5E05EF57972E4 /* SDImageCacheConfig.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageCacheConfig.m; path = SDWebImage/SDImageCacheConfig.m; sourceTree = "<group>"; };
 		5BBC78D87C03D96E4917F07CD96C297E /* WLBaseViewModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLBaseViewModel.m; path = WLBaseView/ViewModel/WLBaseViewModel.m; sourceTree = "<group>"; };
@@ -1447,7 +1447,7 @@
 		70F92B1613F672F7E45417E23FA73E80 /* WLMRecordListVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLMRecordListVC.h; path = WLMElectronicInvoice/ElectronicInvoiceManager/Controller/WLMRecordListVC.h; sourceTree = "<group>"; };
 		7157B085EB2E0ABF73B5B2563ADAAE77 /* RACScheduler+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "RACScheduler+Private.h"; path = "ReactiveObjC/RACScheduler+Private.h"; sourceTree = "<group>"; };
 		716D45E85A480649FE428E45D031B003 /* UISwitch+RACSignalSupport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UISwitch+RACSignalSupport.m"; path = "ReactiveObjC/UISwitch+RACSignalSupport.m"; sourceTree = "<group>"; };
-		7179E004B381754FE336F8D449518B0A /* libPods-GQComponentDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-GQComponentDemo.a"; path = "libPods-GQComponentDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7179E004B381754FE336F8D449518B0A /* libPods-GQComponentDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GQComponentDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		71BB270C596C2FE001072434BE37AB61 /* RACKVOChannel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACKVOChannel.h; path = ReactiveObjC/RACKVOChannel.h; sourceTree = "<group>"; };
 		7203F4D40FE62B72891236837F7228F3 /* WLBViewModelServiceImpProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLBViewModelServiceImpProtocol.h; path = WLBaseView/ViewModel/WLBViewModelServiceImpProtocol.h; sourceTree = "<group>"; };
 		7234428A6B0674DEBD615DE943FF0576 /* WLIconFont-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WLIconFont-dummy.m"; sourceTree = "<group>"; };
@@ -1468,7 +1468,7 @@
 		7A947FE509A3C7D0988995A6AC226246 /* NSObject+RACDeallocating.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSObject+RACDeallocating.h"; path = "ReactiveObjC/NSObject+RACDeallocating.h"; sourceTree = "<group>"; };
 		7B1A9C4E4E187B19DE2FB889D405CE4E /* WLBaseModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLBaseModel.m; path = WLBaseView/Model/WLBaseModel.m; sourceTree = "<group>"; };
 		7BA9C897834A20171ACA126EE7EFA3D4 /* RACKVOProxy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACKVOProxy.h; path = ReactiveObjC/RACKVOProxy.h; sourceTree = "<group>"; };
-		7C79080F387A8A929FC97B092A8CF6EF /* libModuleBCategory.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libModuleBCategory.a; path = libModuleBCategory.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C79080F387A8A929FC97B092A8CF6EF /* libModuleBCategory.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libModuleBCategory.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CEFF524D01E442B940D3B779D9E15B7 /* UISegmentedControl+RACSignalSupport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UISegmentedControl+RACSignalSupport.h"; path = "ReactiveObjC/UISegmentedControl+RACSignalSupport.h"; sourceTree = "<group>"; };
 		7D1C309C8A81DDF7CE0F2053D80B310A /* RACUnit.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RACUnit.m; path = ReactiveObjC/RACUnit.m; sourceTree = "<group>"; };
 		7D1CF3157ACD1415F85D3D654705D31D /* InvoiceScanHeadView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = InvoiceScanHeadView.m; path = WLMElectronicInvoice/ElectronicInvoiceQRCodeManager/View/InvoiceScanHeadView.m; sourceTree = "<group>"; };
@@ -1482,7 +1482,7 @@
 		7EB5B63C54174C233CA0E1512010071D /* MASCompositeConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASCompositeConstraint.m; path = Masonry/MASCompositeConstraint.m; sourceTree = "<group>"; };
 		7EDB299C4EFFC9F0A827BF397697D3CD /* WLMEInvoiceFilterView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLMEInvoiceFilterView.h; path = WLMElectronicInvoice/ElectronicInvoiceManager/View/WLMEInvoiceFilterView.h; sourceTree = "<group>"; };
 		7EE95385384AC21B0A63831657D21A5C /* WLMQRScanVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLMQRScanVC.h; path = WLMElectronicInvoice/ElectronicInvoiceQRCodeManager/Controller/WLMQRScanVC.h; sourceTree = "<group>"; };
-		7F285704D966A2657D7698A05DA72335 /* FBObjectiveCNSCFTimer.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = FBObjectiveCNSCFTimer.mm; path = FBRetainCycleDetector/Graph/Specialization/FBObjectiveCNSCFTimer.mm; sourceTree = "<group>"; };
+		7F285704D966A2657D7698A05DA72335 /* FBObjectiveCNSCFTimer.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = FBObjectiveCNSCFTimer.mm; path = FBRetainCycleDetector/Graph/Specialization/FBObjectiveCNSCFTimer.mm; sourceTree = "<group>"; };
 		7F41DB89C52A85A6B9E4B20BD9F31C24 /* WLMMoreTaxationInfoVM.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLMMoreTaxationInfoVM.h; path = WLMElectronicInvoice/ElectronicInvoiceApply/ViewModel/WLMMoreTaxationInfoVM.h; sourceTree = "<group>"; };
 		7F6AC2C05C89C83A18BA790723A775E2 /* NSFileHandle+RACSupport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSFileHandle+RACSupport.h"; path = "ReactiveObjC/NSFileHandle+RACSupport.h"; sourceTree = "<group>"; };
 		8069E4EBD505BBFC66C0F4CFB7820F1A /* ReactiveObjC-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ReactiveObjC-prefix.pch"; sourceTree = "<group>"; };
@@ -1526,7 +1526,7 @@
 		8D6A0703A43A6B7F5F34BD5EEE758579 /* SDWebImageTransition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageTransition.m; path = SDWebImage/SDWebImageTransition.m; sourceTree = "<group>"; };
 		8D978B1476392612A72337D9C3FF92FC /* WLMRecordFiltrVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLMRecordFiltrVC.m; path = WLMElectronicInvoice/ElectronicInvoiceManager/Controller/WLMRecordFiltrVC.m; sourceTree = "<group>"; };
 		8EA83807A03CFF954C78A134B6A8FCF1 /* UIButton+WLContentExtention.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+WLContentExtention.h"; path = "WLWidget/Category/UIButton+WLContentExtention.h"; sourceTree = "<group>"; };
-		8EAA2269CB99B54F3102F086BE47C08B /* libMJExtension.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libMJExtension.a; path = libMJExtension.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EAA2269CB99B54F3102F086BE47C08B /* libMJExtension.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMJExtension.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F09EE0DE3AF4B9B00E90DDB8C8B26C8 /* WLMRequirementListCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLMRequirementListCell.h; path = WLMElectronicInvoice/ElectronicInvoiceManager/View/WLMRequirementListCell.h; sourceTree = "<group>"; };
 		8F0DA10C0FD19515FBF56C202EFB9CCE /* WLBaseTableViewCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLBaseTableViewCell.h; path = WLBaseView/View/WLBaseTableViewCell.h; sourceTree = "<group>"; };
 		8F8576AE17B562A8B6AAA88F9AACB609 /* WLPurchaseInvoiceStepModal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLPurchaseInvoiceStepModal.h; path = WLModal/View/WLPurchaseInvoiceStepModal.h; sourceTree = "<group>"; };
@@ -1542,7 +1542,7 @@
 		933B0F8EAFF497CADFF4D1052CE78106 /* WLPickerView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLPickerView.h; path = WLPickerView/View/WLPickerView.h; sourceTree = "<group>"; };
 		9356C874F914291A227DE9FACE44003D /* UIAlertView+RACSignalSupport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIAlertView+RACSignalSupport.m"; path = "ReactiveObjC/UIAlertView+RACSignalSupport.m"; sourceTree = "<group>"; };
 		9372D3FB7815A2FFB8787D07E83B5946 /* UIViewController+WLNavigationItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIViewController+WLNavigationItem.m"; path = "WLBaseView/Category/UIViewController+WLNavigationItem.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93F4462BDCE9CD715FEBA473AEB51EF9 /* WLFormStepperCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLFormStepperCell.h; path = WLForm/View/Cell/WLFormStepperCell.h; sourceTree = "<group>"; };
 		9417F04139E8687AAC962372DDBBA6A3 /* RACScopedDisposable.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RACScopedDisposable.m; path = ReactiveObjC/RACScopedDisposable.m; sourceTree = "<group>"; };
 		9498EB1D4724F7E6272168C56215F2C2 /* UINavigationController+MemoryLeak.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UINavigationController+MemoryLeak.m"; path = "MLeaksFinder/UINavigationController+MemoryLeak.m"; sourceTree = "<group>"; };
@@ -1568,7 +1568,7 @@
 		9A5F738574C7220953618C987C256DDC /* UITableViewHeaderFooterView+RACSignalSupport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITableViewHeaderFooterView+RACSignalSupport.h"; path = "ReactiveObjC/UITableViewHeaderFooterView+RACSignalSupport.h"; sourceTree = "<group>"; };
 		9A8A0BBBC6E0B49ABE7F5E353A7EAF65 /* MASLayoutConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASLayoutConstraint.m; path = Masonry/MASLayoutConstraint.m; sourceTree = "<group>"; };
 		9AF103E8B44215AF43A623304827494F /* RACEXTRuntimeExtensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RACEXTRuntimeExtensions.m; path = ReactiveObjC/extobjc/RACEXTRuntimeExtensions.m; sourceTree = "<group>"; };
-		9B33A078A610C0D50DC2FD37E6833E70 /* libEleInvoiceCategory.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libEleInvoiceCategory.a; path = libEleInvoiceCategory.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B33A078A610C0D50DC2FD37E6833E70 /* libEleInvoiceCategory.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libEleInvoiceCategory.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B49BF3D3172B8A4ADB71BC99AE8C33D /* FBRetainCycleDetector+Internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "FBRetainCycleDetector+Internal.h"; path = "FBRetainCycleDetector/Detector/FBRetainCycleDetector+Internal.h"; sourceTree = "<group>"; };
 		9BA3A52EA84D70CA0F09014C39B1E204 /* filter_state_selected@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "filter_state_selected@2x.png"; path = "WLMElectronicInvoice/Resources/filter_state_selected@2x.png"; sourceTree = "<group>"; };
 		9BBBABDF38AC355C300B9BFAAFE33657 /* UIViewController+MemoryLeak.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIViewController+MemoryLeak.h"; path = "MLeaksFinder/UIViewController+MemoryLeak.h"; sourceTree = "<group>"; };
@@ -1586,7 +1586,7 @@
 		A037B35E3F7B4BD6FBD3697751206D9F /* NSInvocation+RACTypeParsing.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSInvocation+RACTypeParsing.m"; path = "ReactiveObjC/NSInvocation+RACTypeParsing.m"; sourceTree = "<group>"; };
 		A06063A3664E5973CD61B91F6D10ED69 /* RACKVOProxy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RACKVOProxy.m; path = ReactiveObjC/RACKVOProxy.m; sourceTree = "<group>"; };
 		A09A3F19BBB7939EE2306A4807BC3B6A /* WLBaseViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLBaseViewController.h; path = WLBaseView/Controller/WLBaseViewController.h; sourceTree = "<group>"; };
-		A0DE82F4FE020107208CD5E2E9B7840E /* FBNodeEnumerator.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = FBNodeEnumerator.mm; path = FBRetainCycleDetector/Detector/FBNodeEnumerator.mm; sourceTree = "<group>"; };
+		A0DE82F4FE020107208CD5E2E9B7840E /* FBNodeEnumerator.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = FBNodeEnumerator.mm; path = FBRetainCycleDetector/Detector/FBNodeEnumerator.mm; sourceTree = "<group>"; };
 		A146F9F319C7AEF9A0B7358107B2D536 /* WLFormSectionHeaderView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLFormSectionHeaderView.m; path = WLForm/View/WLFormSectionHeaderView.m; sourceTree = "<group>"; };
 		A17770A795C11FC4E20D187826E679CF /* MJExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJExtension.h; path = MJExtension/MJExtension.h; sourceTree = "<group>"; };
 		A1AADB1FF3C375AF5508A6A2215DE587 /* WLBaseTableView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLBaseTableView.m; path = WLBaseView/View/WLBaseTableView.m; sourceTree = "<group>"; };
@@ -1647,13 +1647,13 @@
 		B43D1AE6404033452D8D25C4E3C7C86A /* UIImageView+HighlightedWebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+HighlightedWebCache.h"; path = "SDWebImage/UIImageView+HighlightedWebCache.h"; sourceTree = "<group>"; };
 		B4C6A6C4B7FB473BC5150F2F0D4461F0 /* MLeaksFinder.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MLeaksFinder.xcconfig; sourceTree = "<group>"; };
 		B51E2C3FD5FAF859978FADB8153BDDE7 /* RACSubscriptionScheduler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RACSubscriptionScheduler.m; path = ReactiveObjC/RACSubscriptionScheduler.m; sourceTree = "<group>"; };
-		B528409D617A9F78EE0388FF05318F8F /* libCTMediator.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libCTMediator.a; path = libCTMediator.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		B54D19F32C9B92110B9BE762AFC5F05B /* libWLForm.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libWLForm.a; path = libWLForm.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		B528409D617A9F78EE0388FF05318F8F /* libCTMediator.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libCTMediator.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		B54D19F32C9B92110B9BE762AFC5F05B /* libWLForm.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libWLForm.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		B55CEF9ABE437E632CCC44F4FF0904D8 /* MJFoundation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJFoundation.m; path = MJExtension/MJFoundation.m; sourceTree = "<group>"; };
 		B5DFC12DC863CF32345C94AD0550A722 /* WLMElectronicInvoiceRouter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLMElectronicInvoiceRouter.h; path = WLMElectronicInvoice/Tools/WLRouter/WLMElectronicInvoiceRouter.h; sourceTree = "<group>"; };
 		B60DDA6D87648414C6D15F1573ABF02D /* RACKVOTrampoline.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACKVOTrampoline.h; path = ReactiveObjC/RACKVOTrampoline.h; sourceTree = "<group>"; };
 		B69EA4A880CE7BEC38D1C824E73C85B6 /* WLAddressPickerView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLAddressPickerView.h; path = WLPickerView/View/WLAddressPickerView.h; sourceTree = "<group>"; };
-		B6A757F11A17CE70E85F271C9358BB52 /* libSDWebImage.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libSDWebImage.a; path = libSDWebImage.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		B6A757F11A17CE70E85F271C9358BB52 /* libSDWebImage.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSDWebImage.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6C136A45546619A874C8C62AE568DDA /* pick_bg@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "pick_bg@3x.png"; path = "WLMElectronicInvoice/Resources/pick_bg@3x.png"; sourceTree = "<group>"; };
 		B75A86DFB6914EF77731FA622561277B /* UITextView+WLTextView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextView+WLTextView.h"; path = "WLWidget/Category/UITextView+WLTextView.h"; sourceTree = "<group>"; };
 		B7686C64DD0F2F75474235EF3A2D26D1 /* RACDynamicSequence.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RACDynamicSequence.m; path = ReactiveObjC/RACDynamicSequence.m; sourceTree = "<group>"; };
@@ -1685,7 +1685,7 @@
 		C0276D9649597D11787D80C126A7CF7F /* ModuleB-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ModuleB-prefix.pch"; sourceTree = "<group>"; };
 		C0FA618A6380943B717EA32C41F59A4E /* RACSerialDisposable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACSerialDisposable.h; path = ReactiveObjC/RACSerialDisposable.h; sourceTree = "<group>"; };
 		C10E7E7D1129BEDF1F8802AB4319884D /* FBObjectiveCGraphElement+Internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "FBObjectiveCGraphElement+Internal.h"; path = "FBRetainCycleDetector/Graph/Internal/FBObjectiveCGraphElement+Internal.h"; sourceTree = "<group>"; };
-		C1B1291DA5608BD62B7ED3C624F329B1 /* Struct.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = Struct.mm; path = FBRetainCycleDetector/Layout/Classes/Parser/Struct.mm; sourceTree = "<group>"; };
+		C1B1291DA5608BD62B7ED3C624F329B1 /* Struct.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = Struct.mm; path = FBRetainCycleDetector/Layout/Classes/Parser/Struct.mm; sourceTree = "<group>"; };
 		C2979B7F2C09CEFFA68D8EDE40ECC0B8 /* NSObject+MemoryLeak.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSObject+MemoryLeak.m"; path = "MLeaksFinder/NSObject+MemoryLeak.m"; sourceTree = "<group>"; };
 		C38A5FEA229B77D1EA12C95303EDF30D /* Masonry.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Masonry.h; path = Masonry/Masonry.h; sourceTree = "<group>"; };
 		C40559BBE71048D6A90FCEE6C2E8A89A /* NSButton+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSButton+WebCache.m"; path = "SDWebImage/NSButton+WebCache.m"; sourceTree = "<group>"; };
@@ -1713,7 +1713,7 @@
 		CA69B34F061E088270BEB22EA4FB44E6 /* IQKeyboardManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = IQKeyboardManager.m; path = IQKeyboardManager/IQKeyboardManager.m; sourceTree = "<group>"; };
 		CA71FDF59F4C29A2E1FEA0E953E25C58 /* FBBlockStrongLayout.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBBlockStrongLayout.h; path = FBRetainCycleDetector/Layout/Blocks/FBBlockStrongLayout.h; sourceTree = "<group>"; };
 		CA7DFD2053716AD16ACB54043FF1B27A /* normal@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "normal@2x.png"; path = "WLMElectronicInvoice/Resources/normal@2x.png"; sourceTree = "<group>"; };
-		CB4F5D1345E3605382E05CA79A134640 /* FBObjectiveCGraphElement.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = FBObjectiveCGraphElement.mm; path = FBRetainCycleDetector/Graph/FBObjectiveCGraphElement.mm; sourceTree = "<group>"; };
+		CB4F5D1345E3605382E05CA79A134640 /* FBObjectiveCGraphElement.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = FBObjectiveCGraphElement.mm; path = FBRetainCycleDetector/Graph/FBObjectiveCGraphElement.mm; sourceTree = "<group>"; };
 		CB6BF289E26CF71C9F967DB341276165 /* WLMSelectedApplyMerchantModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLMSelectedApplyMerchantModel.m; path = WLMElectronicInvoice/ElectronicInvoiceApply/Model/WLMSelectedApplyMerchantModel.m; sourceTree = "<group>"; };
 		CC11BD4C132D955B35F8B0CC51B7AE56 /* WLIconFont-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WLIconFont-prefix.pch"; sourceTree = "<group>"; };
 		CC92C6A4EDE95DD971B80FCD98C25016 /* RACQueueScheduler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RACQueueScheduler.m; path = ReactiveObjC/RACQueueScheduler.m; sourceTree = "<group>"; };
@@ -1756,7 +1756,7 @@
 		DA1ECD21D5536454157DED4638F4CC03 /* WLModal-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WLModal-prefix.pch"; sourceTree = "<group>"; };
 		DABD39FE962B45872E2A54E453BA3824 /* WLFormSectionViewModel+row.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "WLFormSectionViewModel+row.h"; path = "WLForm/Category/WLFormSectionViewModel+row.h"; sourceTree = "<group>"; };
 		DAD7F41FA21FE8ED9CC5ACB4898A083B /* SDWebImageCoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageCoder.h; path = SDWebImage/SDWebImageCoder.h; sourceTree = "<group>"; };
-		DADD0D2F6C075E9149EA38D2D41472F4 /* province_data.xml */ = {isa = PBXFileReference; includeInIndex = 1; name = province_data.xml; path = WLPickerView/Resource/province_data.xml; sourceTree = "<group>"; };
+		DADD0D2F6C075E9149EA38D2D41472F4 /* province_data.xml */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = province_data.xml; path = WLPickerView/Resource/province_data.xml; sourceTree = "<group>"; };
 		DB6ABD9910777B974566CDA4608455B4 /* FBObjectiveCNSCFTimer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBObjectiveCNSCFTimer.h; path = FBRetainCycleDetector/Graph/Specialization/FBObjectiveCNSCFTimer.h; sourceTree = "<group>"; };
 		DC08678105F2649782C7B04FD02C5457 /* SDWebImageCodersManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageCodersManager.m; path = SDWebImage/SDWebImageCodersManager.m; sourceTree = "<group>"; };
 		DC12F8094C3471834A11B2798B588DEA /* CTMediator+ModuleB.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "CTMediator+ModuleB.m"; path = "ModuleB-Category/Category/CTMediator+ModuleB.m"; sourceTree = "<group>"; };
@@ -1812,7 +1812,7 @@
 		EA586E3F97F16B8834EDD93706A2FDDC /* WLFormBottomTipButtonCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLFormBottomTipButtonCell.h; path = WLForm/View/Cell/WLFormBottomTipButtonCell.h; sourceTree = "<group>"; };
 		EA800B9F9A43FA1EB45DAD56B684AD42 /* UIView+Borders.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Borders.h"; path = "WLWidget/Category/UIView+Borders.h"; sourceTree = "<group>"; };
 		EA976EF6EBA4A048A1B3586025BF2476 /* NSString+MJExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+MJExtension.m"; path = "MJExtension/NSString+MJExtension.m"; sourceTree = "<group>"; };
-		EB273250023FB2F5AB1C1B07000BBE30 /* libMLeaksFinder.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libMLeaksFinder.a; path = libMLeaksFinder.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		EB273250023FB2F5AB1C1B07000BBE30 /* libMLeaksFinder.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMLeaksFinder.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB456ED30FC4C97CE6D26F6D2C7ED63D /* UIView+Borders.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Borders.m"; path = "WLWidget/Category/UIView+Borders.m"; sourceTree = "<group>"; };
 		EB8588E38C6496F694F18A388E497C0B /* icon_back@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon_back@2x.png"; path = "WLBaseView/Resource/icon_back@2x.png"; sourceTree = "<group>"; };
 		EC3CBECBAFC857050618E5AE23063948 /* WLAlertModal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLAlertModal.h; path = WLModal/View/WLAlertModal.h; sourceTree = "<group>"; };
@@ -1823,7 +1823,7 @@
 		ECEBBB2AB23F4C6110D5E9ED8EDB90DD /* einvoice_mange_sample@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "einvoice_mange_sample@3x.png"; path = "WLMElectronicInvoice/Resources/einvoice_mange_sample@3x.png"; sourceTree = "<group>"; };
 		ED1314E440B76720D730416B7AA55D50 /* WLMSearchInvoiceItemVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLMSearchInvoiceItemVC.h; path = WLMElectronicInvoice/ElectronicInvoiceApply/Controller/WLMSearchInvoiceItemVC.h; sourceTree = "<group>"; };
 		ED3CEAB310AE90568BE127F7367F2A6B /* WLMInvoiceDetailInfoView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLMInvoiceDetailInfoView.m; path = WLMElectronicInvoice/ElectronicInvoiceDetail/View/WLMInvoiceDetailInfoView.m; sourceTree = "<group>"; };
-		ED522036CAB769FA6E8ADFEAD4C92BE7 /* libWLMElectronicInvoice.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libWLMElectronicInvoice.a; path = libWLMElectronicInvoice.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED522036CAB769FA6E8ADFEAD4C92BE7 /* libWLMElectronicInvoice.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libWLMElectronicInvoice.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDAD10C8EC2DC6A5192A6C86633222EB /* WLFormBottomButtonCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WLFormBottomButtonCell.h; path = WLForm/View/Cell/WLFormBottomButtonCell.h; sourceTree = "<group>"; };
 		EDDAA479DEA5C5D1946813B3BD6B61E9 /* UITableViewCell+Extention.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITableViewCell+Extention.m"; path = "WLForm/Category/UITableViewCell+Extention.m"; sourceTree = "<group>"; };
 		EDFC35B58317740F6A6A61E88AFDFB51 /* TargetViewContainer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TargetViewContainer.h; path = WLMElectronicInvoice/Target/TargetViewContainer.h; sourceTree = "<group>"; };
@@ -1849,7 +1849,7 @@
 		F252A750127415C27A73C9572AC70FC9 /* MLeaksFinder-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MLeaksFinder-dummy.m"; sourceTree = "<group>"; };
 		F29CD32F53E08A539DADF62E438F9E9A /* MASViewConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewConstraint.m; path = Masonry/MASViewConstraint.m; sourceTree = "<group>"; };
 		F2C6A50529DDD2BE396ACE34FA025B28 /* WLMElectronicInvoice-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WLMElectronicInvoice-dummy.m"; sourceTree = "<group>"; };
-		F2C990CC775AF5AB93D1E608473DFFE1 /* libWLPickerView.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libWLPickerView.a; path = libWLPickerView.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		F2C990CC775AF5AB93D1E608473DFFE1 /* libWLPickerView.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libWLPickerView.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		F369961CF39427A891FEF4FE0E3C9F09 /* FBRetainCycleUtils.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBRetainCycleUtils.m; path = FBRetainCycleDetector/FBRetainCycleUtils.m; sourceTree = "<group>"; };
 		F36AE54BB401D637049C767C0143DFB8 /* WLMRequirementListVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WLMRequirementListVC.m; path = WLMElectronicInvoice/ElectronicInvoiceManager/Controller/WLMRequirementListVC.m; sourceTree = "<group>"; };
 		F3BD50988A4F109B41129FD0A5FC1207 /* RACReturnSignal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACReturnSignal.h; path = ReactiveObjC/RACReturnSignal.h; sourceTree = "<group>"; };
@@ -1886,7 +1886,7 @@
 		FDF9CDBD53682790579329537AD19444 /* UITableViewCell+RACSignalSupport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITableViewCell+RACSignalSupport.m"; path = "ReactiveObjC/UITableViewCell+RACSignalSupport.m"; sourceTree = "<group>"; };
 		FED13516658CCCC3CDD7876D67C401A2 /* UIImage+Gradient.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Gradient.m"; path = "WLWidget/Category/UIImage+Gradient.m"; sourceTree = "<group>"; };
 		FEE4F4170B3450AC861C6C2030ECAFFE /* UITabBarController+MemoryLeak.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITabBarController+MemoryLeak.h"; path = "MLeaksFinder/UITabBarController+MemoryLeak.h"; sourceTree = "<group>"; };
-		FEECC5597FD27FF89C72C0B8C8534BF2 /* FBAssociationManager.mm */ = {isa = PBXFileReference; includeInIndex = 1; name = FBAssociationManager.mm; path = FBRetainCycleDetector/Associations/FBAssociationManager.mm; sourceTree = "<group>"; };
+		FEECC5597FD27FF89C72C0B8C8534BF2 /* FBAssociationManager.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = FBAssociationManager.mm; path = FBRetainCycleDetector/Associations/FBAssociationManager.mm; sourceTree = "<group>"; };
 		FEF35E8E7E4502FA423E2DDFC09774CC /* MJExtensionConst.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJExtensionConst.h; path = MJExtension/MJExtensionConst.h; sourceTree = "<group>"; };
 		FF7B8368CAEDCF65247ABD11E681CC67 /* RACMulticastConnection.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RACMulticastConnection.h; path = ReactiveObjC/RACMulticastConnection.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -2088,7 +2088,6 @@
 				EA976EF6EBA4A048A1B3586025BF2476 /* NSString+MJExtension.m */,
 				2141F9D1C1B687BB397500C358AC01E3 /* Support Files */,
 			);
-			name = MJExtension;
 			path = MJExtension;
 			sourceTree = "<group>";
 		};
@@ -2165,7 +2164,6 @@
 				D308C93D3CC809C55FBFDB2ED7E178FC /* Type.h */,
 				B4D2D44EC1C77BE81484669A4DF854F0 /* Support Files */,
 			);
-			name = FBRetainCycleDetector;
 			path = FBRetainCycleDetector;
 			sourceTree = "<group>";
 		};
@@ -2322,7 +2320,6 @@
 				ABF22854EA9F90B33B8E28B30BDF8F3F /* SComponent */,
 				88E8172EE8ED691F7D80658A9EB6BD27 /* Support Files */,
 			);
-			name = WLWidget;
 			path = WLWidget;
 			sourceTree = "<group>";
 		};
@@ -2402,7 +2399,6 @@
 				4A3B3A68E5A7334EBE45C11B51E81FB5 /* Resources */,
 				A30F356C1CD0D5DF3BB4AFDD78CF8BCC /* Support Files */,
 			);
-			name = IQKeyboardManager;
 			path = IQKeyboardManager;
 			sourceTree = "<group>";
 		};
@@ -2413,7 +2409,6 @@
 				95C8E4305B93953A9386B5B06B7B09F4 /* CTMediator.m */,
 				C4DC9C5C03CD58E5E899AD1B5C3F1FD4 /* Support Files */,
 			);
-			name = CTMediator;
 			path = CTMediator;
 			sourceTree = "<group>";
 		};
@@ -2450,7 +2445,6 @@
 				9301744A745BDA228EF97523DF34656C /* Core */,
 				B40C922A123EC4D1BD6DDBD8E4C99444 /* Support Files */,
 			);
-			name = SDWebImage;
 			path = SDWebImage;
 			sourceTree = "<group>";
 		};
@@ -2484,7 +2478,6 @@
 				4C31667AA7AB8B3F3E518A7ECD0881E6 /* ViewController+MASAdditions.m */,
 				1DAF3DBF95C4C276E9D919B64F765121 /* Support Files */,
 			);
-			name = Masonry;
 			path = Masonry;
 			sourceTree = "<group>";
 		};
@@ -2682,7 +2675,6 @@
 				445D72D68E59924BCBA2FB258F5F7382 /* UITextView+RACSignalSupport.m */,
 				66F31EA497040A6D5ED305BDA19B8E0A /* Support Files */,
 			);
-			name = ReactiveObjC;
 			path = ReactiveObjC;
 			sourceTree = "<group>";
 		};
@@ -2711,7 +2703,6 @@
 				C57865A79DFEF3CC023F328E407EA0A5 /* Modal */,
 				498C06F922693F95CAB4224AD2037689 /* Support Files */,
 			);
-			name = WLModal;
 			path = WLModal;
 			sourceTree = "<group>";
 		};
@@ -2800,7 +2791,6 @@
 				44DBCE1886F1A6CE2CF2C055BD8379DC /* Resources */,
 				F910B9A458E73B3F55B4EB80E7B4D448 /* Support Files */,
 			);
-			name = WLIconFont;
 			path = WLIconFont;
 			sourceTree = "<group>";
 		};
@@ -2811,7 +2801,6 @@
 				2EF688DE0E5876B0C82697E554D7A2A3 /* Resources */,
 				961C747FC53C74FF40F951B13DCA651D /* Support Files */,
 			);
-			name = WLMElectronicInvoice;
 			path = WLMElectronicInvoice;
 			sourceTree = "<group>";
 		};
@@ -2885,7 +2874,6 @@
 				FD4623EB261572DCEE5B384ED0E39786 /* UIViewController+MemoryLeak.m */,
 				778B395F8EB3F4B7A37DF8288848DEF7 /* Support Files */,
 			);
-			name = MLeaksFinder;
 			path = MLeaksFinder;
 			sourceTree = "<group>";
 		};
@@ -2956,7 +2944,6 @@
 				DC12F8094C3471834A11B2798B588DEA /* CTMediator+ModuleB.m */,
 				E9FC04159120EBE1C5117C45452BC520 /* Support Files */,
 			);
-			name = ModuleBCategory;
 			path = ModuleBCategory;
 			sourceTree = "<group>";
 		};
@@ -2989,7 +2976,6 @@
 				B734D4EFE1E40B320CF52930FD5692B8 /* Support Files */,
 				7C63D80D05975AEB81239F1DA214EC44 /* Target */,
 			);
-			name = ModuleB;
 			path = ModuleB;
 			sourceTree = "<group>";
 		};
@@ -3134,7 +3120,6 @@
 				33D205EA885FA0166A8E2CAD7ECF069F /* CTMediator+Elelnvoice.m */,
 				2E945C8126EB3682E28EC815AF3474FE /* Support Files */,
 			);
-			name = EleInvoiceCategory;
 			path = EleInvoiceCategory;
 			sourceTree = "<group>";
 		};
@@ -3282,7 +3267,6 @@
 				5B74CDD376FC22F89A0479D363373073 /* Resources */,
 				03311A9343AADF76C3533636956B3F47 /* Support Files */,
 			);
-			name = WLPickerView;
 			path = WLPickerView;
 			sourceTree = "<group>";
 		};
@@ -3313,7 +3297,6 @@
 				B26A3488E9BBF109B81C4FC4DF3AB7AA /* Resources */,
 				FA92EC37157327F3D49637BEC3E81CE7 /* Support Files */,
 			);
-			name = WLForm;
 			path = WLForm;
 			sourceTree = "<group>";
 		};
@@ -3324,7 +3307,6 @@
 				EE4CAD125C6E69F254006E81B7BB1587 /* Resources */,
 				5502FB95AB900C97E5E2C0CA7B5D8674 /* Support Files */,
 			);
-			name = WLBaseView;
 			path = WLBaseView;
 			sourceTree = "<group>";
 		};
